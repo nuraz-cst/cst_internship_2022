@@ -1,0 +1,6 @@
+# python virtual environments
+venv
+ 
+# Jupyter Notebook
+.ipynb_checkpoints
+.DS_Store
